@@ -1,0 +1,12 @@
+{
+  "name": "crawler",
+  "version": "0.0.1",
+  "description": "Crawler",
+  "main": "crawler.js",
+  "author": "Damien Lagreze",
+  "license": "ISC",
+  "dependencies": {
+    "crawl": "^0.3.1",
+    "fs": "0.0.1-security"
+  }
+}
